@@ -1,11 +1,18 @@
 @import url("https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap");
-
 body {
-   font-family: "New Tegomin";
-   background-color:#e6e6fa;
+  font-family: "New Tegomin", serif;
+  font-size: calc(10px + 0.33vw);
+  -webkit-font-smoothing: antialiased;
+  padding: 5vh 8vw;
+  color: #121314;
 }
 
-
+p {
+  font-size: 1.6em;
+  font-weight: 300;
+  line-height: 1.4;
+  max-width: 45em;
+}
 
 progress {
     width: 70%;
