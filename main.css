@@ -13,6 +13,11 @@ h1 {
   margin-bottom: 0;
 }
 
+.myName {
+  font-weight: 650;
+  font-size: 2em;
+}
+
 p {
   font-size: 1.6em;
   font-weight: 300;
