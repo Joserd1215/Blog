@@ -4,7 +4,7 @@ body {
   font-size: calc(10px + 0.33vw);
   -webkit-font-smoothing: antialiased;
   padding: 5vh 8vw;
-    color: #e6e6fa;
+    color: #121314;
 }
 
 h1 {
@@ -31,7 +31,7 @@ p {
 }
 
 progress {
-    width: 15%;
+    width: 20%;
     height: 20px;
     color: #3fb6b2;
     background: #e6e6fa;
