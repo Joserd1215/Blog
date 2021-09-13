@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap");
+
+body {
+   font-family: "New Tegomin";
+   background-color:#e6e6fa;
+}
+
+
+
+progress {
+    width: 70%;
+    height: 20px;
+    color: #3fb6b2;
+    background: #e6e6fa;
+}
+Progress::-webkit-progress-bar {
+   background: #efefef;
+}
+
+progress::-webkit-progress-value {
+    background: #3fb6b2;
+} 
+progress::-moz-progress-bar {
+    color: #e6e6fa;
+    background: #e6e6fa;
+}
+
+button {
+    background:#db7093;
+}
