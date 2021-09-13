@@ -10,12 +10,12 @@ body {
 p {
   font-size: 1.6em;
   font-weight: 300;
-  line-height: 1.4;
+  line-height: 1.6;
   max-width: 45em;
 }
 
 progress {
-    width: 70%;
+    width: 60%;
     height: 20px;
     color: #3fb6b2;
     background: #e6e6fa;
