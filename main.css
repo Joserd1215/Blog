@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap");
+body {
+  font-family: "New Tegomin", serif;
+  font-size: calc(10px + 0.33vw);
+  -webkit-font-smoothing: antialiased;
+  padding: 5vh 8vw;
+    color: #121314;
+    background-color: #e6e6fa;
+}
+
+h1 {
+  font-size: 4.5em;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+
+#Gusto {
+  font-weight: 650;
+  font-size: 2em;
+}
+  
+.myName {
+  font-weight: 650;
+  font-size: 2em;
+}
+
+p {
+  font-size: 1.6em;
+  font-weight: 300;
+  line-height: 1.6;
+  max-width: 45em;
+}
+
+progress {
+    width: 30%;
+    height: 20px;
+    color: #3fb6b2;
+    background: #e6e6fa;
+}
+Progress::-webkit-progress-bar {
+   background: #efefef;
+}
+
+progress::-webkit-progress-value {
+    background: #3fb6b2;
+} 
+progress::-moz-progress-bar {
+    color: #e6e6fa;
+    background: #e6e6fa;
+}
+
+a{
+  font-weight: 300;
+  text-decoration: none;
+    border-radius: 5px;
+    color: #000000;
+    font-size: 1em;
+}
+a::after{
+  content: "|";
+}
